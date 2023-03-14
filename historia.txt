@@ -3,5 +3,5 @@ Esta es la historia de Freddy Vega
 Freddy Vega tiene 32 años y nació en Colombia
 
 Anita PLatiz tiene 41 años y nación en internet
-
+Esta linea es para confirmar que hize conexión mediante SSH
 Mañana nos enfocaremos en su vida laboral
