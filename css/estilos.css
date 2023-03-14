@@ -4,7 +4,8 @@ body{
     font-family:Arial;
     font-size:16px;
     margin:0;
-    padding:0
+    padding:0;
+    background-color: gray;
 }
 
 #cabecera{
@@ -26,7 +27,8 @@ body{
     padding:0;
     text-align:left;
     border:1px solid #ddd;
-    margin:0 auto
+    margin:0 auto;
+    background-color: white;
 }
 
 #container h1
